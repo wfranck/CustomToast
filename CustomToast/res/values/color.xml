@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toast_text_color_red">#f00</color>
+    <color name="toast_background_color_red">#f00</color>
+    <color name="toast_text_color_green">#0f0</color>
+    <color name="toast_background_color_green">#0f0</color>
+    <color name="toast_text_color_blue">#4A8BF5</color>
+    <color name="toast_background_color_blue">#4A8BF5</color>
+    <color name="toast_text_color_yellow">#FFFF59</color>
+    <color name="toast_background_color_yellow">#FFFF59</color>
+</resources>
